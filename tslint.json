@@ -1,0 +1,7 @@
+{
+	"extends": [
+	],
+	"rules": {
+		"no-unexternalized-strings": false
+	}
+}
